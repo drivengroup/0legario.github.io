@@ -3,8 +3,10 @@
 
 
 # 0legar.io
-Static Internet presence with headless hosting for an IO domain.
 
+```html
+Static Internet presence with headless hosting for an .io domain.
+```
 ## 
 
 ## Production
